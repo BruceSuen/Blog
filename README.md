@@ -1,2 +1,1 @@
-# Bruce-s-Blog
-Bruce's Blog
+This is Bruce's blog
